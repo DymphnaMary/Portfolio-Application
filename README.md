@@ -2,7 +2,10 @@
 This is my first android application of my Portfolio.
 
 
-![portfolio](https://user-images.githubusercontent.com/68493795/117055046-59206080-ad38-11eb-887c-6bae6e34c934.jpg)
+
+https://user-images.githubusercontent.com/68493795/117055519-dba92000-ad38-11eb-949d-d2c85c55d8b9.mp4
+
+
 
 
 
